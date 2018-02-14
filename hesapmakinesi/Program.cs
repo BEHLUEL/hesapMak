@@ -13,38 +13,89 @@ namespace hesapmakinesi
             double sayi1, sayi2, sonuc;
             char islem;
 
-            Console.Write("1. sayıyı giriniz :");
-            sayi1=Convert.ToDouble(Console.ReadLine());
-
-            Console.Write("2. sayıyı giriniz :");
-            sayi2 = Convert.ToDouble(Console.ReadLine());
-
-            Console.Write("işlemi giriniz :");
-            islem = Convert.ToChar(Console.ReadLine());
-
-            if (islem == '+')
+            try
             {
-                sonuc = sayi1 + sayi2;
-                Console.WriteLine("%d", sonuc);
+                Console.Write("1. sayıyı giriniz :");
+                sayi1 = Convert.ToDouble(Console.ReadLine());
+
+                Console.Write("2. sayıyı giriniz :");
+                sayi2 = Convert.ToDouble(Console.ReadLine());
+
+                Console.Write("işlemi giriniz :");
+                islem = Convert.ToChar(Console.ReadLine());
+
+
+
+                ///////////////
+                if (islem == '+')
+                {
+                    sonuc = sayi1 + sayi2;
+                    Console.WriteLine(sonuc);
+                }
+
+                else if (islem == '-')
+                {
+                    sonuc = sayi1 - sayi2;
+                    Console.WriteLine(sonuc);
+                }
+
+                else if (islem == '*')
+                {
+                    sonuc = sayi1 * sayi2;
+                    Console.WriteLine(sonuc);
+                }
+
+                else if (islem == '/')
+                {
+                    if (sayi2 != 0)
+                    {
+                        sonuc = sayi1 / sayi2;
+                        Console.WriteLine(sonuc);
+                    }
+                    else
+                        Console.WriteLine("bölme işlemlerinde payda '0' olamaz !!!");
+
+                }
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("hatalı giriş");
             }
 
-            else if (islem == '-')
-            {
-                sonuc = sayi1 - sayi2;
-                Console.WriteLine("%d", sonuc);
-            }
 
-            else if (islem == '*')
-            {
-                sonuc = sayi1 * sayi2;
-                Console.WriteLine("%d", sonuc);
-            }
+            //if (islem == '+')
+            //{
+            //    sonuc = sayi1 + sayi2;
+            //    Console.WriteLine("%d", sonuc);
+            //}
 
-            else if (islem == '/')
-            {
-                sonuc = sayi1 / sayi2;
-                Console.WriteLine("%d", sonuc);
-            }
+            //else if (islem == '-')
+            //{
+            //    sonuc = sayi1 - sayi2;
+            //    Console.WriteLine("%d", sonuc);
+            //}
+
+            //else if (islem == '*')
+            //{
+            //    sonuc = sayi1 * sayi2;
+            //    Console.WriteLine("%d", sonuc);
+            //}
+
+            //else if (islem == '/')
+            //{
+            //    try
+            //    {
+            //        sonuc = sayi1 / sayi2;
+            //        Console.WriteLine("%d", sonuc);
+            //    }
+            //    catch (Exception)
+            //    {
+
+            //        Console.WriteLine("hatalı giriş");
+            //    }
+
+            //}
         }
-   }
+    }
 }
