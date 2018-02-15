@@ -1,0 +1,9 @@
+c:\users\behlu\onedrive\belgeler\visual studio 2015\Projects\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HesapMakinesi\ggf\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\behlu\OneDrive\Belgeler\Visual Studio 2015\Projects\hesapmakinesi\ggf\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yasin\Desktop\hesapMak-master\hesapMak-master\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yasin\Desktop\hesapMak-master\hesapMak-master\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\Yasin\Desktop\hesapMak-master\hesapMak-master\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\Yasin\Desktop\hesapMak-master\hesapMak-master\hesapmakinesi\obj\Debug\hesapmakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\hesapMak-master\hesapMak-master\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\Yasin\Desktop\hesapMak-master\hesapMak-master\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
