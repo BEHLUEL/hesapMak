@@ -1,0 +1,9 @@
+c:\users\behlu\onedrive\belgeler\visual studio 2015\Projects\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HesapMakinesi\ggf\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\behlu\OneDrive\Belgeler\Visual Studio 2015\Projects\hesapmakinesi\ggf\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\behlu\OneDrive\Masaüstü\Yeni klasör\hesapMak\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\behlu\OneDrive\Masaüstü\Yeni klasör\hesapMak\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\behlu\OneDrive\Masaüstü\Yeni klasör\hesapMak\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\behlu\OneDrive\Masaüstü\Yeni klasör\hesapMak\hesapmakinesi\obj\Debug\hesapmakinesi.csprojResolveAssemblyReference.cache
+C:\Users\behlu\OneDrive\Masaüstü\Yeni klasör\hesapMak\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\behlu\OneDrive\Masaüstü\Yeni klasör\hesapMak\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
