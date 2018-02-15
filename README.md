@@ -14,4 +14,4 @@ Görevler:
 
 Behlül Sarıkaya => Kullanıcıdan sayı ve işlem tipi alma - hata kontrolü
 Yasin Özdel => İşlem tipine göre koşulları oluşturma
-Tunahan Oğuz => Koşulların içini gerekli işlemlerle doldurma
+Tunahan Oğuz => Koşulların içini gerekli işlemlerle doldurma (tamamlandı)
