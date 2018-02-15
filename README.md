@@ -12,6 +12,6 @@ Toplama-Çıkarma-Çarpma-Bölme
 
 Görevler:
 
-Behlül Sarıkaya => Kullanıcıdan sayı ve işlem tipi alma - hata kontrolü
+Behlül Sarıkaya => Kullanıcıdan sayı ve işlem tipi alma - hata kontrolü(tamamlandı)
 Yasin Özdel => İşlem tipine göre koşulları oluşturma(tamamlandı)
-Tunahan Oğuz => Koşulların içini gerekli işlemlerle doldurma (tamamlandı)
+Tunahan Oğuz => Koşulların içini gerekli işlemlerle doldurma(tamamlandı)
