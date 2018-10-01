@@ -56,6 +56,14 @@ namespace hesapmakinesi
                         Console.WriteLine("bölme işlemlerinde payda '0' olamaz !!!");
 
                 }
+		else if (islem == '^')
+		{
+		    sonuc = 1;
+		    for (int i = 0; i < sayi2; i++)
+			    sonuc *= sayi1;
+
+		    Console.WriteLine(sonuc);
+		}
             }
             catch (Exception)
             {
